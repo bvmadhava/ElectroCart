@@ -45,7 +45,7 @@ E-Commerce-App/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Praneeth76/E-commerce.git
+   git clone https://github.com/bvmadhava/E-commerce.git
    cd ecommerce-app
    ```
 
